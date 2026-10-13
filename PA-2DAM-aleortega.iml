@@ -3,7 +3,12 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EjemplosColeccionesJava" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/EjemplosDeClase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P1.2. Uso de estructura de Datos/E1-JuegoTurnos-ListCircularSimpleEnlazada" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/P1.2. Uso de estructura de Datos/E2-PlayList-LinkedList" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/P1. Estructuras de datos Lineales" />
+      <excludeFolder url="file://$MODULE_DIR$/P1. Estructuras de datos Lineales/SolucionP1" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -7,8 +7,8 @@ public class Main {
         Scanner teclado =
                 new Scanner(System.in);
 
-        SolucionJuegoTurnos juego =
-                new SolucionJuegoTurnos();
+        JuegoTurnos juego =
+                new JuegoTurnos();
 
         int opcion;
 
