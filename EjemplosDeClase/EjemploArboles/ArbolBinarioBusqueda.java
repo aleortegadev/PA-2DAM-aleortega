@@ -81,4 +81,30 @@ public class ArbolBinarioBusqueda {
 
         inOrden(nodo.derecho);
     }
+
+
+    private void preOrden(NodoArbol nodo) {
+        if (nodo == null) {
+            return;
+        }
+
+        System.out.println(nodo.dato);
+
+        preOrden(nodo.izquierdo);
+
+        preOrden(nodo.derecho);
+    }
+    
+    private void postOrden(NodoArbol nodo) {
+        if (nodo == null) {
+            return;
+        }
+
+        postOrden(nodo.izquierdo);
+
+        postOrden(nodo.derecho);
+
+        System.out.println(nodo.dato);
+    }
+
 }
