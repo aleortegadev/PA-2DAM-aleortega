@@ -44,6 +44,7 @@ public class ArbolBinarioBusqueda {
 
     // Método público busca en el árbol el elemento que se le pasa
     // Si encuentra el dato devuelve true, si no devuelve false
+    // 
     public boolean buscar(int dato) {
 
         NodoArbol actual = raiz;
